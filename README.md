@@ -25,6 +25,16 @@ To develop a comprehensive dashboard that delivers detailed **customer credit ca
 7. Performs data modeling.
 8. Design and build the interactive dashboard using Power BI .
 
+
+
+![Screenshot 2025-04-11 125658](https://github.com/user-attachments/assets/399feeae-376a-4e29-b43c-06f120cdaac8)
+
+
+![Screenshot 2025-04-11 125800](https://github.com/user-attachments/assets/399feeae-376a-4e29-b43c-06f120cdaac8)
+
+![Screenshot 2025-04-11 125911](https://github.com/user-attachments/assets/399feeae-376a-4e29-b43c-06f120cdaac8)
+
+
 # Insights 
 1.**Total Interest Earned**: **₹7.84M**.
 
@@ -57,6 +67,8 @@ To develop a comprehensive dashboard that delivers detailed **customer credit ca
 15.**Customer Satisfaction by Card Category**: Highest with **Blue** cardholders.
 
  **Note:** All the amounts mentioned are in **INR** (Indian Rupees).
+
+
 
 
 
