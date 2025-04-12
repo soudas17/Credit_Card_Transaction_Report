@@ -1,5 +1,7 @@
-# Credit_Card_Transaction_Report
-
+# Credit Card Transaction Report
+# Problem Statement
+Financial institute often face challenges regarding the customer behaviour, market trend, revenue, monitoring transaction from large volume of data. Without a insightful report it will be for them to understand the strategic decisions that will increase customer satisfaction.
+This project aims to build an insightful report and solve the problem by building dynamic dashboard that visualizes **KPI, Revenue, Customer rating, total transaction, card usage category** etc. And helps the stakeholders to make better decision making for the future.
 # Project Objective
 To develop a comprehensive dashboard that delivers detailed **customer credit card transaction report**. This report provides key insights and trends, enabling stakeholders to monitor and analyze credit card operations effectively using various **KPIs and visualization**.
 
@@ -25,6 +27,7 @@ To develop a comprehensive dashboard that delivers detailed **customer credit ca
 7. Performs data modeling.
 8. Design and build the interactive dashboard using Power BI .
 
+https://github.com/user-attachments/assets/0d147352-8956-433b-b24d-a99bf0ebc2f6
 
 
 ![Screenshot 2025-04-11 125658](https://github.com/user-attachments/assets/399feeae-376a-4e29-b43c-06f120cdaac8)
@@ -33,6 +36,7 @@ To develop a comprehensive dashboard that delivers detailed **customer credit ca
 ![Screenshot 2025-04-11 125800](https://github.com/user-attachments/assets/399feeae-376a-4e29-b43c-06f120cdaac8)
 
 ![Screenshot 2025-04-11 125911](https://github.com/user-attachments/assets/399feeae-376a-4e29-b43c-06f120cdaac8)
+
 
 
 # Insights 
@@ -66,14 +70,6 @@ To develop a comprehensive dashboard that delivers detailed **customer credit ca
 
 15.**Customer Satisfaction by Card Category**: Highest with **Blue** cardholders.
 
- **Note:** All the amounts mentioned are in **INR** (Indian Rupees).
+ **Disclaimer** : All the amounts mentioned are in **INR** (Indian Rupees).
 
-
-
-
-
-
-
-
-
-
+**Conclusion** : This Power BI project successfully demonstrated the end-to-end process of data analysis and visualization using real-world credit card transaction data. By integrating Microsoft Excel, PostgreSQL, and Power BI, we were able to clean, model, and visualize data to extract meaningful business insights.Key findings from the dashboard, such as identifying the most used card category, top-spending age groups, and customer satisfaction score , enable stakeholders to make data-driven decisions. The interactive visualizations and KPIs provide a comprehensive view of customer behavior, revenue generation, and total transaction .This report will help the stakeholders to understand their business trends and help them to make decisions in the future.  
