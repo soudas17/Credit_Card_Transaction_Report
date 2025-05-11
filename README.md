@@ -1,7 +1,7 @@
 # Credit Card Transaction Report
 # Problem Statement
-Financial institute often face challenges regarding the customer behaviour, market trend, revenue, monitoring transaction from large volume of data. Without a insightful report it will be for them to understand the strategic decisions that will increase customer satisfaction.
-This project aims to build an insightful report and solve the problem by building dynamic dashboard that visualizes **KPI, Revenue, Customer rating, total transaction, card usage category** etc. And helps the stakeholders to make better decision making for the future.
+Financial institute often face challenges regarding the customer behaviour, market trend, revenue, monitoring transaction from large volume of data. Without a insightful report it is difficult for them to understand the strategic decisions that will increase customer satisfaction.
+This project aims to build an insightful report and solve the problem by building dynamic dashboard find the key insights that visualizes **KPI, Revenue, Customer rating, total transaction, card usage category** etc. And helps the stakeholders to make better decision making for the future.
 # Project Objective
 To develop a comprehensive dashboard that delivers detailed **customer credit card transaction report**. This report provides key insights and trends, enabling stakeholders to monitor and analyze credit card operations effectively using various **KPIs and visualization**.
 
